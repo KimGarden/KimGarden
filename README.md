@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
 </div>
 
-<div align = 'center'>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGarden&theme=transparent&show_icons=true)
-</div>
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api?username=KimGarden&theme=transparent&show_icons=true"/></a>
+</p>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
