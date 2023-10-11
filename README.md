@@ -34,7 +34,12 @@
 	<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
 	<img src="https://img.shields.io/badge/API Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+	<br>
 </div>
+
+<p align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimGarden&layout=compact&theme=transparent"/></a>
+</p>
 
 <p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=KimGarden&theme=transparent&show_icons=true"/></a>
